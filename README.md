@@ -2,7 +2,7 @@
 
 - 🔭 Aqui e onde salvo os meus trabalhos com programação
 - 🌱 Estou fazendo faculdade de Ciencias da Computação
-- 💬 Estou no 5 período 
+- 💬 Estou no 8 período 
 - 📫 Email para contato: Tutucaramos@hotmail.com
 
 ## 
