@@ -3,7 +3,7 @@
 - 🔭 Aqui e onde salvo os meus trabalhos com programação
 - 🌱 Estou fazendo faculdade de Ciencias da Computação
 - 💬 Estou no 8 período 
-- 📫 Email para contato: Arthurviniciusribe@gmmail.com
+- 📫 Email para contato: Arthurviniciusribe@gmail.com
 
 ## 
 
